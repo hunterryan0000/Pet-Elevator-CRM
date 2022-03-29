@@ -1,4 +1,4 @@
-# Week 3 review exercise
+# Pet Elevator
 
 Congratulations—you've been hired by a pet setting and grooming company called Pet Elevator. They're building their own software to use in-house.
 
